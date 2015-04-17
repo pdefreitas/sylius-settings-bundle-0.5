@@ -21,7 +21,7 @@
     ],
     "require": {
         "php":                             ">=5.3.3",
-        "doctrine/doctrine-bundle":     "1.2.*@dev",
+        
         "symfony/framework-bundle":        "~2.3",
         "pdefreitas/sylius-resource-bundle-1.0":          "dev-master",
         "stof/doctrine-extensions-bundle": "1.1.*",
